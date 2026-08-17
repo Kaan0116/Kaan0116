@@ -15,10 +15,11 @@
 ### About Me
 
 - 🎓 4th year **AI Engineering** student at **Hacettepe University** (Expected 2027)
-- 🚁 Vice President @ **Hacettepe UAV Society** — leading TEKNOFEST autonomous UAV teams
-- 🤖 Deep interest in **Computer Vision**, **edge AI deployment**, and **time series forecasting**
-- ⚡ Experience with real-time inference on **NVIDIA Jetson Xavier NX** and **Raspberry Pi 5 AI Kit**
-- 🌱 Currently building autonomous systems with **ROS**, **PX4**, and **YOLOv11**
+- 🛩️ Former intern @ **Baykar** — C++ software development on performance-critical defense systems
+- 🚁 **Hacettepe UAV Society** — Supervisory Board Member (prev. Vice President & Project Director)
+- 🤖 Deep interest in **Computer Vision**, **edge AI deployment**, and **autonomous systems**
+- ⚡ Real-time inference on **NVIDIA Jetson Xavier NX** and **Raspberry Pi 5 AI Kit** (CUDA · TensorRT)
+- 🌱 Leading autonomous UAV team for **TEKNOFEST International** with YOLOv11 + DBSCAN
 - 📫 Reach me at: **kaanbolukbas0116@gmail.com**
 
 ---
