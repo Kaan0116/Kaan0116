@@ -4,12 +4,6 @@
   <em>AI Engineering Student @ Hacettepe University · Computer Vision & Machine Learning</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Kaan0116">
-    <img src="https://komarev.com/ghpvc/?username=Kaan0116&style=flat&color=grey" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ### About Me
