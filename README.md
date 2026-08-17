@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 🎓 4rd year **AI Engineering** student at **Hacettepe University** (Expected 2027)
+- 🎓 4th year **AI Engineering** student at **Hacettepe University** (Expected 2027)
 - 🚁 Vice President @ **Hacettepe UAV Society** — leading TEKNOFEST autonomous UAV teams
 - 🤖 Deep interest in **Computer Vision**, **edge AI deployment**, and **time series forecasting**
 - ⚡ Experience with real-time inference on **NVIDIA Jetson Xavier NX** and **Raspberry Pi 5 AI Kit**
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaan0116&theme=default&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Kaan0116&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
@@ -90,5 +90,9 @@
   &nbsp;
   <a href="mailto:kaanbolukbas0116@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kaan0116/Kaan0116/raw/main/Y%C3%BCksel%20Kaan%20B%C3%B6l%C3%BCkba%C5%9F.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
